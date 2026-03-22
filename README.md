@@ -26,10 +26,10 @@ Este repositorio es el portafolio digital del estudiante para el curso de Econom
 
 | Elemento | Descripción |
 |---|---|
-| 🔵 **Scripts R** | Archivos `.R` y scripts de análisis econométrico |
-| 📓 **R Notebooks / RMarkdown** | Talleres y Trabajos del curso |
-| 🗃️ **Datasets** | Conjuntos de datos utilizados en análisis y proyectos |
-| 📄 **Informes** | Documentos y reportes de entregas formales |
+| **Scripts R** | Archivos `.R` y scripts de análisis econométrico |
+| **R Notebooks / RMarkdown** | Talleres y Trabajos del curso |
+| **Datasets** | Conjuntos de datos utilizados en análisis y proyectos |
+| **Informes** | Documentos y reportes de entregas formales |
 
 
 
